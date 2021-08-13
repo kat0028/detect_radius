@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/kyle/mkz_hijack/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/kyle/mkz_hijack/src/brake_command/include/**",
+        "/home/kyle/mkz_hijack/src/cornering_controller/include/**",
+        "/home/kyle/mkz_hijack/src/curvature_control/include/**",
+        "/home/kyle/mkz_hijack/src/curvature_reconfig/include/**",
+        "/home/kyle/mkz_hijack/src/curve_calc/include/**",
+        "/home/kyle/mkz_hijack/src/detect_radius/include/**",
+        "/home/kyle/mkz_hijack/src/distance_brake/include/**",
+        "/home/kyle/mkz_hijack/src/drive_gear/include/**",
+        "/home/kyle/mkz_hijack/src/drive_throttle/include/**",
+        "/home/kyle/mkz_hijack/src/ecef_local/include/**",
+        "/home/kyle/mkz_hijack/src/end_point/include/**",
+        "/home/kyle/mkz_hijack/src/gazebo_utm_distance/include/**",
+        "/home/kyle/mkz_hijack/src/heading_control/include/**",
+        "/home/kyle/mkz_hijack/src/lat_control_simple/include/**",
+        "/home/kyle/mkz_hijack/src/path_curve_reconfig/include/**",
+        "/home/kyle/mkz_hijack/src/speed_controller/include/**",
+        "/home/kyle/mkz_hijack/src/steering_test/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
